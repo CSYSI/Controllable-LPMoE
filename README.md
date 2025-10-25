@@ -30,6 +30,21 @@ LPMoE_U_B_ICCV25_SD [(https://pan.baidu.com/s/1kpTEFNSSYqBCW7bRwEpApQ), PIN:csim
 LPMoE_U_B_ICCV25_GD [(https://pan.baidu.com/s/1CcD3AAKMSTiYo3HHWoFtrg), PIN:yxqc] 
 
 
+# Citation
+
+If you use Controllable-LPMoE in your research or wish to refer to the baseline results, please use the following BibTeX entry.
+
+```
+@inproceedings{Controllable-LPMoE,
+  title={Controllable-LPMoE: Adapting to Challenging Object Segmentation via Dynamic Local Priors from Mixture-of-Experts},
+  author={Sun, Yanguang and Lian, Jiawei and Yang, Jian and Luo, Lei},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={22327--22337},
+  year={2025}
+}
+```
+
+
 
 
 
