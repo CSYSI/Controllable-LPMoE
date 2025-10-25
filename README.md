@@ -18,11 +18,17 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 We give the segmentated results of our Controllable-LPMoE model in Camouflaged Object Detection (COD), Salient Object Detection (SOD), Polyp Segmentation (PS), Skin Lesion Segmentation (SLS), Shadow Detection (SD), and Glass Detection (GD).
 
 LPMoE_U_B_ICCV25_COD [(https://pan.baidu.com/s/1KABwnsRhw75Wecya1RQ6Fw?pwd=bicb), PIN:bicb] 
+
 LPMoE_U_B_ICCV25_SOD [(https://pan.baidu.com/s/18Hf5KTqyZliLgv30qGEJvw?pwd=ysst), PIN:ysst] 
+
 LPMoE_U_B_ICCV25_PS [(https://pan.baidu.com/s/1gwPD7ti9OnpGuyOIgB_oeQ), PIN:2nff] 
+
 LPMoE_U_B_ICCV25_SLS [(https://pan.baidu.com/s/1LZuOXTFBHmo6ka3RhzfRTg), PIN:zpbh] 
+
 LPMoE_U_B_ICCV25_SD [(https://pan.baidu.com/s/1kpTEFNSSYqBCW7bRwEpApQ), PIN:csim] 
+
 LPMoE_U_B_ICCV25_GD [(https://pan.baidu.com/s/1CcD3AAKMSTiYo3HHWoFtrg), PIN:yxqc] 
+
 
 
 
