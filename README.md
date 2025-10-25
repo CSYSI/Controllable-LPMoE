@@ -2,9 +2,9 @@
 
 Yanguang Sun, Jiawei Lian, Jian Yang, Lei Luo<br />
 
-Our work has been accepted for ICCV 2025. The code will be open sourced.
+Our work has been accepted for **ICCV 2025**. The code will be open sourced.
 
-If you are interested in our work, please do not hesitate to contact us at Sunyg@njust.edu.cn via email.
+If you are interested in our work, please do not hesitate to contact us at **Sunyg@njust.edu.cn via email**.
 
 ![image](https://github.com/user-attachments/assets/9871e846-712e-406d-b6d8-c6338284eb89)
 <img width="2028" height="675" alt="image" src="https://github.com/user-attachments/assets/ccbad38e-a1e9-49a9-97f0-46e6b033a60d" />
@@ -15,7 +15,7 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 
 # Segmentation results
 
-We provide the segmentation results produced by our Controllable-LPMoE model across six binary object segmentation tasks, including ''Camouflaged Object Detection (COD)'', ''Salient Object Detection (SOD)'', ''Polyp Segmentation (PS)'', ''Skin Lesion Segmentation (SLS)'', ''Shadow Detection (SD)'', and ''Glass Detection (GD)''.
+We provide the predicted results produced by our Controllable-LPMoE model across six **binary object segmentation** tasks, including **''Camouflaged Object Detection (COD)''**, **''Salient Object Detection (SOD)''**, **''Polyp Segmentation (PS)''**, **''Skin Lesion Segmentation (SLS)''**, **''Shadow Detection (SD)''**, and **''Glass Detection (GD)''**.
 
 LPMoE_U_B_ICCV25_COD [(https://pan.baidu.com/s/1KABwnsRhw75Wecya1RQ6Fw?pwd=bicb), PIN:bicb] 
 
