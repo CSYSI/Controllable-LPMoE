@@ -13,7 +13,16 @@ If you are interested in our work, please do not hesitate to contact us at Sunyg
 <img width="1997" height="843" alt="image" src="https://github.com/user-attachments/assets/74f25990-8571-4235-9470-3051df2f67a1" />
 <img width="1979" height="969" alt="image" src="https://github.com/user-attachments/assets/01ad3f53-7f7a-450e-823f-f40c09bf0d48" />
 
+# Segmentation results
 
+We give the segmentated results of our Controllable-LPMoE model in Camouflaged Object Detection (COD), Salient Object Detection (SOD), Polyp Segmentation (PS), Skin Lesion Segmentation (SLS), Shadow Detection (SD), and Glass Detection (GD).
+
+LPMoE_U_B_ICCV25_COD [(https://pan.baidu.com/s/1KABwnsRhw75Wecya1RQ6Fw?pwd=bicb), PIN:bicb] 
+LPMoE_U_B_ICCV25_SOD [(https://pan.baidu.com/s/18Hf5KTqyZliLgv30qGEJvw?pwd=ysst), PIN:ysst] 
+LPMoE_U_B_ICCV25_PS [(https://pan.baidu.com/s/1gwPD7ti9OnpGuyOIgB_oeQ), PIN:2nff] 
+LPMoE_U_B_ICCV25_SLS [(https://pan.baidu.com/s/1LZuOXTFBHmo6ka3RhzfRTg), PIN:zpbh] 
+LPMoE_U_B_ICCV25_SD [(https://pan.baidu.com/s/1kpTEFNSSYqBCW7bRwEpApQ), PIN:csim] 
+LPMoE_U_B_ICCV25_GD [(https://pan.baidu.com/s/1CcD3AAKMSTiYo3HHWoFtrg), PIN:yxqc] 
 
 
 
