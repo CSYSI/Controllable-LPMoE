@@ -36,7 +36,7 @@ To train Controllable_LPMoE on COD on a single node with 4 gpus run:
 
 ```shell
 
-sh  bash dist_train.sh configs/COS/Controllable_LPMoE_COD_Beit.py 4 --seed 2024
+bash dist_train.sh configs/COS/Controllable_LPMoE_COD_Beit.py 4 --seed 2024
 
 ```
 
