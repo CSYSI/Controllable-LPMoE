@@ -30,7 +30,7 @@ LPMoE_U_B_ICCV25_SD [(https://pan.baidu.com/s/1kpTEFNSSYqBCW7bRwEpApQ), PIN:csim
 LPMoE_U_B_ICCV25_GD [(https://pan.baidu.com/s/1CcD3AAKMSTiYo3HHWoFtrg), PIN:yxqc] 
 
 
-## Training
+# Training
 
 To train Controllable_LPMoE on COD on a single node with 4 gpus run:
 
@@ -40,7 +40,7 @@ bash dist_train.sh configs/COS/Controllable_LPMoE_COD_Beit.py 4 --seed 2024
 
 ```
 
-## Image Demo
+# Image Demo
 
 The segmentation results can be obtained through image_demo.py
 
