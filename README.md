@@ -42,7 +42,7 @@ bash dist_train.sh configs/COS/Controllable_LPMoE_COD_Beit.py 4 --seed 2024
 
 ## Image Demo
 
-The segmentation results can be obtained through image_demo.
+The segmentation results can be obtained through image_demo.py
 
 
 # Citation
