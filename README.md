@@ -2,7 +2,7 @@
 
 Yanguang Sun, Jiawei Lian, Jian Yang, Lei Luo<br />
 
-Our work has been accepted for **ICCV 2025**. The relevant code and results will be updated gradually.
+Our work has been accepted for **ICCV 2025**. The code has already been open sourced.
 
 If you are interested in our work, please do not hesitate to contact us at **Sunyg@njust.edu.cn via email**.
 
